@@ -12,7 +12,7 @@
       <v-card-subtitle class="subtitle" color="gray darken-4"> Veja aqui uma seleção de animes para você. </v-card-subtitle>
 
       <v-card-actions>
-        <router-link to="/animes">
+        <router-link to="/anime">
           <v-btn color="gray darken-4" class="btn" text> Explorar </v-btn>
         </router-link>
       </v-card-actions>
