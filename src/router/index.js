@@ -3,6 +3,7 @@ import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import Jogos from '../views/Jogos.vue'
 import About from '../views/About.vue'
+import Sorteado from '../views/Sorteado.vue'
 
 Vue.use(VueRouter)
 
@@ -18,6 +19,10 @@ const routes = [
   {
     path: '/about',
     component: About
+  },
+  {
+    path: '/sorteado',
+    component: Sorteado
   }
 ]
 

@@ -9,11 +9,13 @@
 
 <script>
 import AppTopBar from './components/shared/AppTopBar'
+//import SortButton from './components/shared/SortButton.vue'
 
 export default {
   name: 'App',
   components: {
-    AppTopBar
+    AppTopBar, 
+    //SortButton, 
   }
 };
 </script>

@@ -35,7 +35,11 @@
       <div class="integrantes">
         <div class="pessoa">
           <h3>Ananda</h3>
-          <p>Animes/jogos que curte!</p>
+          <p>Ananda entende que a pandemia pede animes e jogos mais curtinhos para a gente não se entediar fácil. Por isso, recomenda, como anime Shingeki no Kyojin, e, como jogo, a série Life is Strange o qual lança episódios de jogos como se fossem temporadas!</p>
+        <ul>
+            <li>Shingeki no Kyojin - Netflix</li>
+            <li>Life is Strange - Steam</li>
+          </ul>
         </div>
 
         <div class="pessoa">
@@ -44,14 +48,12 @@
             Gabriela não assiste animes, mas curte demais Doramas! Apesar de não
             fazerem parte do escopo do projeto, Doramas são muito legais também
             e a gente não podia deixar de citar. A recomendação de Dorama de
-            hoje é o Miss Sunshine "Um Raio de Sol", o qual trata sobre a
-            invasão japonesa em terras coreanas. Como jogo, Gabriela recomenda
-            Dusk Wood, um jogo de aplicativo que contém muuuitos mistérios e
-            você, como jogador, é peça fundamental da história.
+            hoje é o "Pousando no Amor". Como jogo, Gabriela recomenda
+            Tunnel Rush.
           </p>
           <ul>
-            <li>Miss Sunshine "Um Raio de Sol" - Netflix</li>
-            <li>Dusk Wood - App Store</li>
+            <li>Pousando no Amor - Netflix</li>
+            <li>Tunnel Rush - App Store</li>
           </ul>
         </div>
       </div>
