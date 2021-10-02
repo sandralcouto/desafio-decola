@@ -22,12 +22,14 @@
                         </v-list-item-icon>
                         <v-list-item-title>Animes</v-list-item-title>
                     </v-list-item>
-                    <v-list-item>
-                        <v-list-item-icon>
-                        <v-icon>mdi-controller-classic</v-icon>
-                        </v-list-item-icon>
-                        <v-list-item-title>Jogos</v-list-item-title>
-                    </v-list-item>
+                    <router-link to="/jogos">
+                        <v-list-item>
+                            <v-list-item-icon>
+                            <v-icon>mdi-controller-classic</v-icon>
+                            </v-list-item-icon>
+                            <v-list-item-title>Jogos</v-list-item-title>
+                        </v-list-item>
+                    </router-link>
                     <v-list-item>
                         <v-list-item-icon>
                         <v-icon>mdi-lifebuoy</v-icon>

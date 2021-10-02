@@ -75,4 +75,4 @@
 
 <style scoped>
  .card{margin: 30px 0px; max-width: 90vw}; 
-</style>
+</style> 
