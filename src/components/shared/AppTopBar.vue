@@ -16,12 +16,14 @@
                             <v-list-item-title>Home</v-list-item-title>
                         </v-list-item>
                     </router-link>
+                    <router-link to="/anime"> 
                     <v-list-item>
                         <v-list-item-icon>
                         <v-icon>mdi-television</v-icon>
                         </v-list-item-icon>
                         <v-list-item-title>Animes</v-list-item-title>
                     </v-list-item>
+                    </router-link>
                     <router-link to="/jogos">
                         <v-list-item>
                             <v-list-item-icon>
@@ -30,12 +32,14 @@
                             <v-list-item-title>Jogos</v-list-item-title>
                         </v-list-item>
                     </router-link>
+                    <router-link to="/setembroamarelo">
                     <v-list-item>
                         <v-list-item-icon>
                         <v-icon>mdi-lifebuoy</v-icon>
                         </v-list-item-icon>
                         <v-list-item-title>Setembro Amarelo</v-list-item-title>
                     </v-list-item>
+                    </router-link>
                     <router-link to="/about">
                         <v-list-item>
                             <v-list-item-icon>
