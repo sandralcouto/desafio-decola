@@ -53,6 +53,8 @@ export default {
 
 <style scoped>
 h1 {
+    width: 100%;
+    padding: 25px;
     color: #FFAB00;
 }
 
