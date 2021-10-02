@@ -61,7 +61,7 @@
       <div class="integrantes">
         <div class="pessoa">
           <h3>Laura</h3>
-          <p>Animes/jogos que curte....</p>
+          <p>Laura curte as coisas simples da vida e, por isso, recomenda os clássicos: Naruto!</p>
         </div>
         <div class="pessoa">
           <p></p>
