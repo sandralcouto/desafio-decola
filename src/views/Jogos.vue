@@ -1,6 +1,11 @@
 <template>
     <div class="jogo">
         <h1 class="text-center">Jogos</h1>
+        <router-link to="/Sorteado">
+        <div class="SortButton">
+          <v-btn color="gray darken-4" class="btn" text v-on:click="jogo.MathRandom()*10"> Sortear </v-btn>
+</div></router-link>
+
         <div class="container">
             <div v-for="jogo of jogos" :key="jogo.id">
                 <v-card color="gray darken-4" class="mx-auto card" >
