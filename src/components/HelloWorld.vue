@@ -11,7 +11,7 @@
     ></v-img>
 
     <v-card-title>
-     {{anime.name}}
+     <h5>{{anime.name}}</h5>
     </v-card-title>
 
     <v-card-actions>
@@ -42,7 +42,7 @@
 
         <v-card-text>
         <p>
-         Status: {{anime.status}}
+          Status: {{anime.status}}
         </p>
         <p>Gênero: {{anime.genre}} </p>
        
